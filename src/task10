@@ -1,0 +1,7 @@
+const bill = 3500;
+const bilfor1 = 500;
+const kolvoP = 8;
+const schet= ((bill + bilfor1)/kolvoP)
+console.log(`С каждого по ${schet}, при общем счете ${bill} и чаевыми ${bilfor1}`)
+
+    
